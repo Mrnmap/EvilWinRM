@@ -17,7 +17,7 @@ GEM
     nori (2.6.0)
     rubyntlm (0.6.2)
     rubyzip (1.3.0)
-    stringio (0.0.2)
+    stringio (3.0.1.1)
     winrm (2.3.2)
       builder (>= 2.1.2)
       erubis (~> 2.7)
